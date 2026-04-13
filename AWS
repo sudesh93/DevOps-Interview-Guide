@@ -1,0 +1,19 @@
+#AWS 
+
+1. Explain AWS Well-Architected Frameworks.
+2. Explain VPC in detail, OR How can you make your application highly available, scalable, optimised, secure and cost-efficient.
+3. I have one EC2 instance which is not associated with any EKS node or ASG. I wanted to delete that instance but it isn't being deleted. What is the reason?
+4. What is Route 53? and its types?
+5. What is cloudtrail and cloudwatch? How do you create custom metrics in cloudwatch?
+6. How many VPC can we create in an AWS account?
+7. How to check if subnet is public or private in AWS?
+8. SG vs NACL?
+9. I have 10 EC2 instances, after patching none of them is coming up. Troubleshoot?
+10. How will you prepare for a big event like an e-commerce sale? What is the prewarming of LB?
+11. What is serverless architecture?
+12. What is WAF and rate limiting in WAF?
+13. How will you communicate with your DB?
+14. I want my S3 to stay private but the static website running on S3 should be accessible to all?
+15. Can I change the EC2 instance type after creation. If yes, How?
+16. AWS lambda cold start? 
+17. How will you give access to only S3 bucket and not to the EC2 instance?
