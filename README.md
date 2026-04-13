@@ -1,2 +1,1 @@
-# DevOps-Interview-Guide
-DevOps Interview questions and answers | 4 years experience
+# DevOps-Interview-Guide | 4 years experience
